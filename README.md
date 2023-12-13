@@ -1,7 +1,9 @@
 # Il Colore: spazi colore e modelli cromatici
 
 ## Partecipeanti:
-Chiara Galleani, Francesca Pupillo, Emanuele Moro.
+ - Chiara Galleani
+ - Francesca Pupillo
+ - Emanuele Moro
 
 ## Obiettivi:
 Questo progetto ha come obiettivo quello di approfondire come l'essere umano percepisce il colore, quali emozioni scaturice e i vari studi del colore per comprendere come possono essere utilizzati per comunicare.
