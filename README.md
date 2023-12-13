@@ -4,8 +4,7 @@
 Chiara Galleani, Francesca Pupillo, Emanuele Moro.
 
 ## Obiettivi:
-Questo approfondimento ha come obiettivo quello di approfondire come l'essere umano percepisce il colore e quali emozioni possono scaturire.
-[...]
+Questo progetto ha come obiettivo quello di approfondire come l'essere umano percepisce il colore, quali emozioni scaturice e i vari studi del colore per comprendere come possono essere utilizzati per comunicare.
 
 ## Struttura:
 __N.B.: I documenti non segnati non sono pronti in via definitiva__
