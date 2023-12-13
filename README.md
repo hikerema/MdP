@@ -8,7 +8,7 @@ Questo approfondimento ha come obiettivo quello di approfondire come l'essere um
 [...]
 
 ## Struttura:
-__N.B.: i file mancanti verrano caricati a breve__
+__N.B.: I documenti non segnati non sono pronti in via definitiva__
   - [x] _color_picker.py_: applicazione dimostrativa dei canali RGB
   - [ ] _ricerca.pdf_: argomenti trattati nell'approfondimento
   - [ ] _presentazione.pdf_: presentazione visuale
