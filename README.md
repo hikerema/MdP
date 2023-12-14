@@ -11,6 +11,6 @@ Questo progetto ha come obiettivo quello di approfondire come l'essere umano per
 ## Struttura:
 __N.B.: I documenti non segnati non sono pronti in via definitiva__
   - [x] _color_picker.py_: applicazione dimostrativa dei canali RGB
-  - [ ] _ricerca.pdf_: argomenti trattati nell'approfondimento
+  - [x] _teoria.pdf_: argomenti trattati nell'approfondimento
   - [ ] _presentazione.pdf_: presentazione visuale
 
